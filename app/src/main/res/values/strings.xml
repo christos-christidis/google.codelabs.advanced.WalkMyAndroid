@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Walk My Android</string>
+    <string name="get_location">Get Location</string>
+    <string name="android_image">Android Image</string>
+    <string name="textview_hint">Press the button to get the last known location</string>
+    <string name="location_permission_denied">Location permission denied.</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f
+\n Timestamp: %3$tr"</string>
+    <string name="no_location">No Last Location found</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid Lat-Long</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
+    <string name="loading">Loading…</string>
+</resources>
