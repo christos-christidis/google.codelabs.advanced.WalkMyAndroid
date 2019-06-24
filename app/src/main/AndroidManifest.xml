@@ -4,6 +4,7 @@
     package="com.advanced.walkmyandroid">
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
         android:allowBackup="false"
@@ -25,5 +26,9 @@
             android:name="android.support.VERSION"
             android:value="28.0.0"
             tools:replace="android:value" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/places_key" />
     </application>
 </manifest>

@@ -1,0 +1,3 @@
+<resources>
+    <string name="places_key" templateMergeStrategy="preserve" translatable="false">@string/my_debug_key</string>
+</resources>
