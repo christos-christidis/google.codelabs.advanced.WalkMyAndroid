@@ -27,10 +27,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="@dimen/margin"
-        android:onClick="onClickGetLocation"
+        android:onClick="onClickTrackLocation"
         android:layout_marginRight="@dimen/margin"
         android:layout_marginBottom="@dimen/margin"
-        android:text="@string/get_location"
+        android:text="@string/start_tracking_location"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="@+id/guide_image_land"
         app:layout_constraintRight_toRightOf="parent" />
